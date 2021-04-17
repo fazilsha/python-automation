@@ -1,5 +1,5 @@
 # python-automation
-Automate the boring stuff
+Automate the boring stuff\
 #Generating xml files
 1.Each dictionary in a list are user data.\
 2.These data are populated to xml data values.\
