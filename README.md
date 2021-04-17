@@ -15,4 +15,4 @@ SAMPLE OUTPUT: \
 File aa.py sucessfully executed\
 File bb.py sucessfully executed\
 File dd.py sucessfully executed\
-Note: Using os.system() we can any  runnable commands as we do in command prompt
+Note: Using os.system() we can run any runnable commands as we do in command prompt
